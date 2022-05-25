@@ -1,5 +1,5 @@
 # wordlegameANDsolver
-working wordle game with solver ai thing  
+working wordle game with solver ai thing made in python  
   
 The wordle game works (picks a random word from the ny times list of possible answers)  
 The ai is incredibly slow and unoptimized (and my code is ugly and unruly)  
